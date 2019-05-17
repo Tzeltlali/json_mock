@@ -1,0 +1,49 @@
+{
+   "b2bUnits" : [ {
+      "billingAddress" : {
+         "country" : {
+            "isocode" : "US",
+            "name" : "United States"
+         },
+         "defaultAddress" : false,
+         "firstName" : "Karl",
+         "id" : "8796093153303",
+         "lastName" : "Anderson",
+         "line1" : "6010 Alina Drove",
+         "phone" : "094857637485723",
+         "postalCode" : "10050",
+         "streetname" : "6010 Alina Drove",
+         "town" : "Highland"
+      },
+      "companyName" : "Lufthansa Division No 02",
+      "customerNumber" : "lufthansa_003_01_02",
+      "debitorId" : "0000000000",
+      "distributionChannel" : "01",
+      "division" : "02",
+      "salesOrganization" : "003",
+      "vatNumber" : "LUF-111-222"
+   }, {
+      "billingAddress" : {
+         "country" : {
+            "isocode" : "US",
+            "name" : "United States"
+         },
+         "defaultAddress" : false,
+         "firstName" : "Karl",
+         "id" : "8796093186071",
+         "lastName" : "Anderson",
+         "line1" : "100 Kilsyth Road",
+         "phone" : "094746373947464",
+         "postalCode" : "10050",
+         "streetname" : "100 Kilsyth Road",
+         "town" : "Elizabeth"
+      },
+      "companyName" : "Siemens Division No 02",
+      "customerNumber" : "siemens_003_01_02",
+      "debitorId" : "0000000000",
+      "distributionChannel" : "01",
+      "division" : "02",
+      "salesOrganization" : "003",
+      "vatNumber" : "SIE-111-222"
+   } ]
+}
